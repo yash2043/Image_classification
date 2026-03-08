@@ -1,8 +1,8 @@
-# 2025W-AML1213-OTT01-Python-Programing
+# Image Classification
 
                                       Image Classification
 
-Our project is on classifying the Fruits and Vagetables from the images using the machine learning.
+this project is on classifying the Fruits and Vagetables from the images using the machine learning.
 
 requirements: 
                     NumPy
